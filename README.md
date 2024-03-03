@@ -1,6 +1,8 @@
 # Text-To-Data-Retriever-GeminiAI-App
 
-Demo link: https://data-retriever-geminiai-app.streamlit.app/
+### Demo link:
+
+https://data-retriever-geminiai-app.streamlit.app/
 
 ### Technology Stack:
 
